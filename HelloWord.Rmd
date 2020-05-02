@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Endless-Void"
 date: "5/2/2020"
-output: html_document
+output: md_document
 ---
 
 ## This is a markdown file
